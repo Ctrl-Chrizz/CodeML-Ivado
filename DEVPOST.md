@@ -43,5 +43,5 @@ Per-region and intersectional monitoring, a blind human-reviewed sample each rou
 python, pandas, scikit-learn, fairlearn, matplotlib, jupyter
 
 ## Links
-- GitHub repository: [ADD YOUR REPO URL]
+- GitHub repository: https://github.com/Ctrl-Chrizz/CodeML-Ivado
 - Presentation: `presentation.pdf` in the repository
